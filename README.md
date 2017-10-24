@@ -5,10 +5,10 @@ Install following Dependency
   pandas
   
   run:-
- python MatchingDataset
+ python MatchDataset
  
  Output:-
- (John Doe Inc) MATCH WITH (John Doe Incorporated)
+(John Doe Inc) MATCH WITH (John Doe Incorporated)
 (Saint Rogers) MATCH WITH (St. Rogers)
 (Sally Harper Center) MATCH WITH (Sally Harper Cntr)
 
