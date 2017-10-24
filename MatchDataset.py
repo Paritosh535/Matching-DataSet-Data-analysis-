@@ -5,7 +5,7 @@ Created on Mon Oct 23 11:45:25 2017
 @author: paritosh.yadav
 """
 
-import difflib as df
+
 from difflib import SequenceMatcher as sm
 import numpy as np
 import pandas as pd
